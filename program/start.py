@@ -73,7 +73,7 @@ async def start_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "• نـصـب بـوتك مـن هـنا •", url="https://t.me/FA9SH/2059",
+                        "• نـصـب بـوتك مـن هـنا •", url="https://t.me/FA9SH/2270",
                     )
                 ],
                 [InlineKeyboardButton("", callback_data="cbhowtouse")],
