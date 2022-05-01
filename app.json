@@ -13,7 +13,7 @@
     ],
     "website": "https://t.me/FA9SH",
     "repository": "https://github.com/USDDBOOT/Shadow",
-    "success_url": "https://t.me/usddshad",
+    "success_url": "https://t.me/KB_Shadow",
     "env": {
         "API_ID": {
             "description": "قم بوضع الايبي ايدي هنا",
@@ -49,7 +49,7 @@
         "GROUP_SUPPORT": {
             "description": "ضع هنا يوزر جروبك بدون علامة @",
             "required": true,
-            "value": "shadow49"
+            "value": "S150D"
         },
         "UPDATES_CHANNEL": {
             "description": "ضع هنا يوزر قناتك بدون علامة @",
@@ -59,7 +59,7 @@
         "OWNER_NAME": {
             "description": "ضع هنا يوزر المطور بدون علامة @",
             "required": true,
-            "value": "usddshad"
+            "value": "KB_Shadow"
         },
         "BOT_PHOTO": {
             "description": "ضع لينك صورة البوت من هنا @T_ELEGRAPH00BOT",
