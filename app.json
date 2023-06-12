@@ -16,35 +16,35 @@
     "success_url": "https://t.me/ALAWE1",
     "env": {
         "API_ID": {
-            "description": "قم بوضع الايبي ايدي هنا",
+            "description": "15770953",
             "required": true
         },
         "API_HASH": {
-            "description": "قم بوضع الايبي هاش",
+            "description": "3a26ba5d4f7a43dc34bc7e94b1e1b780",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "قم بوضع توكن البوت الخاص بك هنا",
+            "description": "6197437980:AAHPoFVsm2gZn7vCrPWR3gAkKAZCN0lpe9Q",
             "required": true
         },
         "BOT_USERNAME": {
             "description": "قم بوضع يوزر بوتك بدون علامة @",
             "required": true,
-            "value": "USDDBOT"
+            "value": "MMilebot"
         },
         "ASSISTANT_NAME": {
             "description": "قم بوضع يوزر الحساب المساعد بدون علامة @",
             "required": true,
-            "value": "SHADOW_MUSIC0"
+            "value": "ZR_EL"
         },
         "SESSION_NAME": {
-            "description": "قم بوضع كود تيرمكس هنا",
+            "description": "1BJWap1sBu3EDI3SgyMdTMT4FVSePVbc_aR3VSPRMM7Xtbr9cHXThO_b2amqmDTymaH6okFfVQtmWUODVaWGtoKZC5RWxVAU_PbsTtGKfkTmaVLzKf1NOrq_VXISz8jbW50zNNSkq3rwo6pAUrjWru-iIaPdrKLYP1mp7hKd8kesJ3hB-CEwnvfmHZDVMiVY4hCAnv0BKAbzoxvE9o9SwAqK-dXXxc8cFnWgSH84HoTZtO3MgF8U5cb78PdorxUvEldMJeHtddhw5oTZZBVjbllMgtdsYP51tqC97a3SFuv65Y-Nz1K_IZ4cNPhbrY12KBKyw70fex5tMAelDDbJXQGatLXs8cu4=",
             "required": true
         },
         "SUDO_USERS": {
-            "description": "قم بوضع ايدي المطور الاساسي",
+            "description": "قم بوضع ايدي",
             "required": true,
-            "value": "1970797144"
+            "value": "5719613462"
         },
         "GROUP_SUPPORT": {
             "description": "ضع هنا يوزر جروبك بدون علامة @",
@@ -62,21 +62,21 @@
             "value": "ALAWE1"
         },
         "BOT_PHOTO": {
-            "description": "ضع لينك صورة البوت من هنا @T_ELEGRAPH00BOT",
+            "description": "https://graph.org/file/76028c417e910d6932d11.jpg",
             "required": true
         },
         "DEV_PHOTO": {
-            "description": "ضع لينك صورة حساب مطور البوت من هنا @T_ELEGRAPH00BOT",
+            "description": "https://graph.org/file/d1d31a56f7833013cf42b.jpg",
             "required": true
         },
         "DEV_NAME": {
-            "description": "ضع اسم حساب التليجرام الخاص بالمطور",
+            "description": "✘ِ𝘼َِ𝙇َِ𝘼َِ𝙒َِ𝙀 َِ𝘼َِ𝙇𝙌َِ𝙐َِ𝙍َِ𝘼َِ𝙎َِ𝙃َِ𝙀",
             "required": true
         },
         "ALIVE_NAME": {
-            "description": "ضع هنا اسم الحساب المساعد",
+            "description": "⎙𝐀𝐖 𝐂𝐎𝐃𝐄⬥⎙",
             "required": true,
-            "value": "𝑺𝑯𝑨𝑫𝑶𝑾 𝑴𝑼𝑺𝑰𝑪"
+            "value": "⎙𝐀𝐖 𝐂𝐎𝐃𝐄⬥⎙"
         },
         "MONGODB_URL": {
             "description": "لا تغيره!",
