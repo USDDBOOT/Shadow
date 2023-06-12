@@ -11,9 +11,9 @@
         "mongodb",
         "pyrogram"
     ],
-    "website": "https://t.me/FA9SH",
-    "repository": "https://github.com/USDDBOOT/Shadow",
-    "success_url": "https://t.me/KB_Shadow",
+    "website": "https://t.me/AWCODE3",
+    "repository": "https://github.com/AlawiAlQurashi/botjack",
+    "success_url": "https://t.me/ALAWE1",
     "env": {
         "API_ID": {
             "description": "قم بوضع الايبي ايدي هنا",
@@ -49,17 +49,17 @@
         "GROUP_SUPPORT": {
             "description": "ضع هنا يوزر جروبك بدون علامة @",
             "required": true,
-            "value": "S150D"
+            "value": "tx_it"
         },
         "UPDATES_CHANNEL": {
             "description": "ضع هنا يوزر قناتك بدون علامة @",
             "required": true,
-            "value": "FA9SH"
+            "value": "FTTIT"
         },
         "OWNER_NAME": {
             "description": "ضع هنا يوزر المطور بدون علامة @",
             "required": true,
-            "value": "KB_Shadow"
+            "value": "ALAWE1"
         },
         "BOT_PHOTO": {
             "description": "ضع لينك صورة البوت من هنا @T_ELEGRAPH00BOT",
@@ -86,7 +86,7 @@
         "UPSTREAM_REPO": {
             "description": "اتركه كما هوا",
             "required": true,
-            "value": "https://github.com/USDDBOOT/Shadow"
+            "value": "https://github.com/AlawiAlQurashi/botjack"
         }
     },
     "addons": [],
