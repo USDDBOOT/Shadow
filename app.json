@@ -28,12 +28,12 @@
             "required": true
         },
         "BOT_USERNAME": {
-            "description": "قم بوضع يوزر بوتك بدون علامة @",
+            "description": "MMilebot",
             "required": true,
             "value": "MMilebot"
         },
         "ASSISTANT_NAME": {
-            "description": "قم بوضع يوزر الحساب المساعد بدون علامة @",
+            "description": "ZR_EL",
             "required": true,
             "value": "ZR_EL"
         },
